@@ -7,7 +7,7 @@
   color: rgba(247, 244, 244, 0.87);
   background-color: #242424;
 
-  font-synthesis: none;
+  font-synthesis: none; 
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -28,7 +28,7 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: rgb(221, 25, 221);
+  background-color: rgb(221, 25, 90);
   color: white;
 }
 
